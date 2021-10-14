@@ -21,6 +21,7 @@
           <forkCount>0</forkCount>
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
+		<suiteXmlFile>testng11.xml</suiteXmlFile>  
           </suiteXmlFiles>
         </configuration>
       </plugin>
